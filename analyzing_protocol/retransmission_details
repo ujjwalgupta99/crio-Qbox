@@ -1,0 +1,2 @@
+1735, 1736, 1745, 1746
+If sender sends a data it doesnt get recieved at the another end or sender doesnt recieve an ack, as a result the sender sends another packet resulting in the packet loss of previous packet, which shows that the quality of network is poor.

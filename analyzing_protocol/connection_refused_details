@@ -1,0 +1,2 @@
+There is a response of SYN packet sent, so the problem is not related to firewall.
+The capture file shows that there the connection is refused by the server. [RST,ACK] means that the port is closed. This happened because there was no process listening on TCP port that was accessed.

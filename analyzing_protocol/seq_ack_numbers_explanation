@@ -1,0 +1,1 @@
+The client includes its own sequence number of 1 (incremented from zero because of the SYN).At this point, the sequence number for both hosts is 1. This initial increment of 1 on both hosts' sequence numbers occurs during the establishment of all TCP sessions.

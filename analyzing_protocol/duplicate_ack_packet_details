@@ -1,0 +1,3 @@
+814
+14.142.204.195
+The sender recieves an ack though but at the time when timer has expired therefore duplicate packets are sent.

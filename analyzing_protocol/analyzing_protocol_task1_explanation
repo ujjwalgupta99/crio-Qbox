@@ -1,0 +1,1 @@
+In ping we are getting the IP address of VM so as we know that VM is running somewhere and when we execute ifconfig we get the main internal ip address. Therefore both the ip addresses are different in output
